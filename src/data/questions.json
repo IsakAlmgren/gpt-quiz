@@ -1,0 +1,233 @@
+[
+  {
+    "category": "General Knowledge",
+    "question": "What is the capital of France?",
+    "answers": [
+      "Paris",
+      "Berlin",
+      "London",
+      "Madrid"
+    ],
+    "correctAnswer": "Paris"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest country in the world?",
+    "answers": [
+      "Russia",
+      "China",
+      "USA",
+      "Canada"
+    ],
+    "correctAnswer": "Russia"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first president of the United States?",
+    "answers": [
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams",
+      "Abraham Lincoln"
+    ],
+    "correctAnswer": "George Washington"
+  },
+  {
+    "category": "Science",
+    "question": "What is the smallest unit of life?",
+    "answers": [
+      "Cell",
+      "Atom",
+      "Molecule",
+      "Organism"
+    ],
+    "correctAnswer": "Cell"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the FIFA World Cup in 2018?",
+    "answers": [
+      "France",
+      "Brazil",
+      "Germany",
+      "Argentina"
+    ],
+    "correctAnswer": "France"
+  },
+  {
+    "category": "Music",
+    "question": "Who is the lead singer of the band Queen?",
+    "answers": [
+      "Freddie Mercury",
+      "Elton John",
+      "Bono",
+      "Sting"
+    ],
+    "correctAnswer": "Freddie Mercury"
+  },
+  {
+    "category": "Art",
+    "question": "Which painter is known for his 'Starry Night' painting?",
+    "answers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the value of pi?",
+    "answers": [
+      "3.14",
+      "3.1415",
+      "3.14159",
+      "3.1415926"
+    ],
+    "correctAnswer": "3.14159"
+  },
+  {
+    "category": "Music",
+    "question": "Who wrote the song 'Bohemian Rhapsody'?",
+    "answers": [
+      "Queen",
+      "Led Zeppelin",
+      "The Beatles",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "Queen"
+  },
+  {
+    "category": "Music",
+    "question": "Which of the following is NOT a member of the Beatles?",
+    "answers": [
+      "Ringo Starr",
+      "John Lennon",
+      "Paul McCartney",
+      "Freddie Mercury"
+    ],
+    "correctAnswer": "Freddie Mercury"
+  },
+  {
+    "category": "Music",
+    "question": "What famous rapper was born with the name Marshall Bruce Mathers III?",
+    "answers": [
+      "Jay-Z",
+      "Kendrick Lamar",
+      "Eminem",
+      "Snoop Dogg"
+    ],
+    "correctAnswer": "Eminem"
+  },
+  {
+    "category": "Music",
+    "question": "What band released the hit album 'Appetite for Destruction'?",
+    "answers": [
+      "Guns N' Roses",
+      "Metallica",
+      "AC/DC",
+      "Black Sabbath"
+    ],
+    "correctAnswer": "Guns N' Roses"
+  },
+  {
+    "category": "Music",
+    "question": "What pop star was born with the name Robyn Rihanna Fenty?",
+    "answers": [
+      "Taylor Swift",
+      "Beyoncé",
+      "Ariana Grande",
+      "Rihanna"
+    ],
+    "correctAnswer": "Rihanna"
+  },
+  {
+    "category": "Science",
+    "question": "What is the largest organ in the human body?",
+    "answers": [
+      "Liver",
+      "Skin",
+      "Brain",
+      "Lungs"
+    ],
+    "correctAnswer": "Skin"
+  },
+  {
+    "category": "Science",
+    "question": "What is the smallest unit of life?",
+    "answers": [
+      "Cell",
+      "Molecule",
+      "Atom",
+      "Organism"
+    ],
+    "correctAnswer": "Cell"
+  },
+  {
+    "category": "Science",
+    "question": "What is the symbol for the element sodium?",
+    "answers": [
+      "Na",
+      "Ne",
+      "Ni",
+      "No"
+    ],
+    "correctAnswer": "Na"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the highest mountain in Africa?",
+    "answers": [
+      "Mount Kilimanjaro",
+      "Mount Everest",
+      "Mount Fuji",
+      "Mount Denali"
+    ],
+    "correctAnswer": "Mount Kilimanjaro"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "answers": [
+      "Monaco",
+      "San Marino",
+      "Nauru",
+      "Vatican City"
+    ],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the longest river in South America?",
+    "answers": [
+      "Amazon River",
+      "Orinoco River",
+      "Paraguay River",
+      "São Francisco River"
+    ],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the largest desert in the world?",
+    "answers": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Arabian Desert",
+      "Antarctic Desert"
+    ],
+    "correctAnswer": "Antarctic Desert"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital of Brazil?",
+    "answers": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "correctAnswer": "Brasília"
+  }
+]
